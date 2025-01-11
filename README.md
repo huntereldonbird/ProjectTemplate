@@ -4,7 +4,7 @@ This is a hello world project that I am creating. dont know why exactly this nee
 
 {Provide a link to your YouTube demonstration.  It should be a one-minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video]([httpyoutube.link.goes.here](https://www.youtube.com/watch?v=AnBMCIVtEGc))
+[Software Demo Video][httpyoutube.link.goes.here](https://www.youtube.com/watch?v=AnBMCIVtEGc)
 
 # Development Environment
 
